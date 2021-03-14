@@ -1,0 +1,14 @@
+D:\Estudos\Programacao\Projetos\Caterpillar\todo-master\ToDoList\ToDoList\bin\Release\netcoreapp2.0\appsettings.Development.json
+D:\Estudos\Programacao\Projetos\Caterpillar\todo-master\ToDoList\ToDoList\bin\Release\netcoreapp2.0\appsettings.json
+D:\Estudos\Programacao\Projetos\Caterpillar\todo-master\ToDoList\ToDoList\bin\Release\netcoreapp2.0\bundleconfig.json
+D:\Estudos\Programacao\Projetos\Caterpillar\todo-master\ToDoList\ToDoList\bin\Release\netcoreapp2.0\ToDoList.deps.json
+D:\Estudos\Programacao\Projetos\Caterpillar\todo-master\ToDoList\ToDoList\bin\Release\netcoreapp2.0\ToDoList.runtimeconfig.json
+D:\Estudos\Programacao\Projetos\Caterpillar\todo-master\ToDoList\ToDoList\bin\Release\netcoreapp2.0\ToDoList.runtimeconfig.dev.json
+D:\Estudos\Programacao\Projetos\Caterpillar\todo-master\ToDoList\ToDoList\bin\Release\netcoreapp2.0\ToDoList.dll
+D:\Estudos\Programacao\Projetos\Caterpillar\todo-master\ToDoList\ToDoList\bin\Release\netcoreapp2.0\ToDoList.pdb
+D:\Estudos\Programacao\Projetos\Caterpillar\todo-master\ToDoList\ToDoList\obj\Release\netcoreapp2.0\ToDoList.AssemblyInfoInputs.cache
+D:\Estudos\Programacao\Projetos\Caterpillar\todo-master\ToDoList\ToDoList\obj\Release\netcoreapp2.0\ToDoList.AssemblyInfo.cs
+D:\Estudos\Programacao\Projetos\Caterpillar\todo-master\ToDoList\ToDoList\obj\Release\netcoreapp2.0\ToDoList.csproj.CoreCompileInputs.cache
+D:\Estudos\Programacao\Projetos\Caterpillar\todo-master\ToDoList\ToDoList\obj\Release\netcoreapp2.0\ToDoList.dll
+D:\Estudos\Programacao\Projetos\Caterpillar\todo-master\ToDoList\ToDoList\obj\Release\netcoreapp2.0\ToDoList.pdb
+D:\Estudos\Programacao\Projetos\Caterpillar\todo-master\ToDoList\ToDoList\obj\Release\netcoreapp2.0\ToDoList.genruntimeconfig.cache
